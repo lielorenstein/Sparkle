@@ -1,3 +1,11 @@
+Parking issues are common throughout the entire world. In the United States alone the estimated damages for time wasted finding a parking space is billions of dollars and that is without including gas costs or air pollution. Today there are a few solutions to this problem, but they require expensive hardware and therefore cannot be implemented everywhere. To solve this problem, we created deep learning models to differentiate between empty and occupied parking spaces, without using a lot of hardware – only one camera is needed.
+
+Our vision: The owner of the parking lot will receive a picture of the lot where the empty and occupied spots are tagged. When someone enters a parking lot they will receive a slip of paper which tells them the optimal open parking space for them. Being able to use our model to screen advertisements and messages on to parking spots. 
+
+The team: Liel Orenstein, Naomie Berges, Yael Fishelovich, Dina Pinchuck, Michal Edry, Kayla Nayman, Naama Holzer, and Ruti Samen.
+
+This Project won second place at hackherit, our college’s entrepreneurship center’s hackathon.
+
 Sparkle is a parking lot detection system, upload a picture of a parking lot to Sparkle and it will tell you which spaces are empty and which are occupided. 
 Sparkle was created with the following tools: Python, Google Colab, Keras , Tenserflow, Torch/PyTorch, Roboflow, Kaggle, and Coco.
 While creating sparkle we developed 3 deep learning / computer vision models with the following algorithms: CNN, R-CNN, and Yolo.
